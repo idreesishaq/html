@@ -9,7 +9,7 @@ HTML is an acronym for HyperText Markup Language.
 ## what is a container tag 
 ## what is empty tag
 
-| Tag | tag type | level | example | description |
+| Tag | tag type | Default display value | example | description |
 | --- |----------| ----- | ------- | ----------- |
 | [`<html>`]() | container tag | block level | ` <html> write html code</html> ` | to write the html code for markup write between the html container tag |
 | [`<head>`]() | container tag |  |  |  |
@@ -74,4 +74,27 @@ HTML is an acronym for HyperText Markup Language.
 
 ## `<body>`
 
+## Block-Level Elements
+
+| `<address>` | `<article>` | `<aside>` | `<blockquote>` | `<canvas>` |
+| --- | --- | --- | --- | --- |
+| **`<dd>`** | **`<div>`** | **`<dl>`** | **`<dt>`** | **`<fieldset>`** |
+| **`<figcaption>`** | **`<figure>`** | **`<footer>`** | **`<form>`** | **`<h1>`** |
+| **`<h2>`** | **`<h3>`** | **`<h4>`** | **`<h5>`** | **`<h6>`** |
+| **`<header>`** | **`<br>`** | **`<li>`** | **`<main>`** | **`<nav>`** |
+| **`<noscript>`** | **`<ol>`** | **`<p>`** | **`<pre>`** | **`<section>`** |
+| **`<table>`** | **`<tfoot>`** | **`<ul>`** | **`<video>`** | |
+
+
+
+## Inline Elements
+
+| `<a>` | `<abbr>` | `<acronym>` | `<b>` | `<bdo>` |
+| --- | --- | --- | --- | --- |
+| **`<big>`** | **`<br>`** | **`<button>`** | **`<cite>`** | **`<code>`** |
+| **`<dfn>`** | **`<em>`** | **`<i>`** | **`<img>`** | **`<input>`** |
+| **`<kbd>`** | **`<label>`** | **`<map>`** | **`<object>`** | **`<output>`** |
+| **`<q>`** | **`<samp>`** | **`<script>`** | **`<select>`** | **`<small>`** |
+| **`<span>`** | **`<stong>`** | **`<sub>`** | **`<sup>`** | **`<textarea>`** |
+| **`<time>`** | **`<tt>`** | **`<var>`** |  |  |
 
