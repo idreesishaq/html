@@ -15,12 +15,12 @@ HTML is an acronym for HyperText Markup Language.
 | [`<head>`]() | container tag |  |  |  |
 | [`<title>`]() | container tag |  |  |  |
 | [`<body>`]() | container tag |  |  |  |
-| [`<h1>`]() | container tag |  | `<h1>This is Heading 1</h1>` |  |
-| [`<h2>`]() | container tag |  | `<h2>This is Heading 2</h2>` |  |
-| [`<h3>`]() | container tag |  | `<h3>This is Heading 3</h3>` |  |
-| [`<h4>`]() | container tag |  | `<h4>This is Heading 4</h4>` |  |
-| [`<h5>`]() | container tag |  | `<h5>This is Heading 5</h5>` |  |
-| [`<h6>`]() | container tag |  | `<h6>This is Heading 6</h6>` |  |
+| [`<h1>`]() | container tag |  | `<h1>This is Heading 1</h1>` | It is the largest heading in html by default. and generally used for titles of main heading. |
+| [`<h2>`]() | container tag |  | `<h2>This is Heading 2</h2>` | the second largest heading |
+| [`<h3>`]() | container tag |  | `<h3>This is Heading 3</h3>` | subheading |
+| [`<h4>`]() | container tag |  | `<h4>This is Heading 4</h4>` | subheading |
+| [`<h5>`]() | container tag |  | `<h5>This is Heading 5</h5>` | subheading |
+| [`<h6>`]() | container tag |  | `<h6>This is Heading 6</h6>` | the smallest heading. |
 | [`<p>`]()  | container tag |  | `<>` |  |
 | [`<div>`]()  | container tag |  | `<>` | The `<div>` Element defines the section in a HTML document. |
 | [`<span>`]()  | container tag |  | `<>` | (1) The `<span>` defines the section in an HTML document. <br><br> (2) It is an inline element |
