@@ -12,9 +12,9 @@ HTML is an acronym for HyperText Markup Language.
 | Tag | tag type | Default display value | example | description |
 | --- |----------| ----- | ------- | ----------- |
 | [`<html>`]() | container tag | block level | ` <html> write html code</html> ` | to write the html code for markup write between the html container tag |
-| [`<head>`]() | container tag |  |  |  |
-| [`<title>`]() | container tag |  |  |  |
-| [`<body>`]() | container tag |  |  |  |
+| [`<head>`]() | container tag |  |  | `<head>` tag is a container tag for metadata. which gives the data about the html page but not displayed by the browser. |
+| [`<title>`]() | container tag |  |  | The `<title>` tag is used to define the title of the html page. which is displayed on the browser title bar or pages' tab. |
+| [`<body>`]() | container tag |  |  | In the `<body>` we write html codes. This tag contains all our document.  |
 | [`<h1>`]() | container tag |  | `<h1>This is Heading 1</h1>` | It is the largest heading in html by default. and generally used for titles of main heading. |
 | [`<h2>`]() | container tag |  | `<h2>This is Heading 2</h2>` | the second largest heading |
 | [`<h3>`]() | container tag |  | `<h3>This is Heading 3</h3>` | subheading |
