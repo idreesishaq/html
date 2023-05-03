@@ -58,7 +58,7 @@ HTML is an acronym for HyperText Markup Language.
 | [`<thead>`]() | container tag |  | `<>` |  |
 | [`<tbody>`]() | container tag |  | `<>` |  |
 | [`<tfoot>`]() | container tag |  | `<>` |  |
-| [`<>`]() |  |  | `<>` |  |
+| [`<marquee>`]() | contaginer tag |  | `<>` | `marquee` tag is used to scroll any content or text. To control the scolling direction and speed there are variety of attributes for marquee element available. |
 | [`<>`]() |  |  | `<>` |  |
 | [`<>`]() |  |  | `<>` |  |
 | [`<>`]() |  |  | `<>` |  |
