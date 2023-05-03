@@ -9,67 +9,67 @@ HTML is an acronym for HyperText Markup Language.
 ## what is a container tag 
 ## what is empty tag
 
-| Tag | tag type | Default display value | example | description |
-| --- |----------| ----- | ------- | ----------- |
-| [`<html>`]() | container tag | block level | ` <html> write html code</html> ` | to write the html code for markup write between the html container tag |
-| [`<head>`]() | container tag |  |  | `<head>` tag is a container tag for metadata. which gives the data about the html page but not displayed by the browser. |
-| [`<title>`]() | container tag |  |  | The `<title>` tag is used to define the title of the html page. which is displayed on the browser title bar or pages' tab. |
-| [`<body>`]() | container tag |  |  | In the `<body>` we write html codes. This tag contains all our document.  |
-| [`<h1>`]() | container tag |  | `<h1>This is Heading 1</h1>` | It is the largest heading in html by default. and generally used for titles of main heading. |
-| [`<h2>`]() | container tag |  | `<h2>This is Heading 2</h2>` | the second largest heading |
-| [`<h3>`]() | container tag |  | `<h3>This is Heading 3</h3>` | subheading |
-| [`<h4>`]() | container tag |  | `<h4>This is Heading 4</h4>` | subheading |
-| [`<h5>`]() | container tag |  | `<h5>This is Heading 5</h5>` | subheading |
-| [`<h6>`]() | container tag |  | `<h6>This is Heading 6</h6>` | the smallest heading. |
-| [`<p>`]()  | container tag |  | `<>` |  |
-| [`<div>`]()  | container tag |  | `<>` | The `<div>` Element defines the section in a HTML document. |
-| [`<span>`]()  | container tag |  | `<>` | (1) The `<span>` defines the section in an HTML document. <br><br> (2) It is an inline element |
-| [`<b>`]() | container tag |  | `<>` |  |
-| [`<i>`]() | container tag |  | `<>` |  |
-| [`<sup>`]() | container tag |  | `<>` |  |
-| [`<sub>`]() | container tag |  | `<>` |  |
-| [`<br>`]() | **empty tag** |  | `<>` |  |
-| [`<hr>`]() |  |  | `<>` |  |
-| [`<strong>`]() | container tag |  | `<>` |semantic markup -  |
-| [`<em>`]() | container tag |  | `<>` | semantic markup - |
-| [`<blockquote>`]() | container tag |  | `<>` | semantic markup - |
-| [`<q>`]() | container tag |  | `<>` | semantic markup - |
-| [`<abbr>`]() | container tag |  | `<>` | semantic markup -  |
-| [`<cite>`]() | container tag |  | `<>` | semantic markup -  |
-| [`<dfn>`]() | container tag |  | `<>` | semantic markup -  |
-| [`<address>`]() | container tag |  | `<>` | semantic markup -  |
-| [`<ins>`]() | container tag |  | `<>` | semantic markup -  |
-| [`<del>`]() | container tag |  | `<>` | semantic markup -  |
-| [`<s>`]() | container tag |  | `<>` | semantic markup -  |
-| [`<ol>`]() | container tag |  | `<>` |  |
-| [`<li>`]() | container tag |  | `<>` |  |
-| [`<ul>`]() | container tag |  | `<>` |  |
-| [`<dl>`]() | container tag |  | `<>` |  |
-| [`<dt>`]() | container tag |  | `<>` |  |
-| [`<dd>`]() | container tag |  | `<>` |  |
-| [`<a>`]() | container tag |  | `<>` |  |
-| [`<img>`]() | **empty tag** |  | `<>` |  |
-| [`<figure>`]() | container tag |  | `<>` |  |
-| [`<figcaption>`]() | container tag |  | `<>` |  |
-| [`<table>`]() | container tag |  | `<>` |  |
-| [`<tr>`]() | container tag |  | `<>` |  |
-| [`<th>`]() | container tag |  | `<>` |  |
-| [`<td>`]() | container tag |  | `<>` |  |
-| [`<thead>`]() | container tag |  | `<>` |  |
-| [`<tbody>`]() | container tag |  | `<>` |  |
-| [`<tfoot>`]() | container tag |  | `<>` |  |
-| [`<marquee>`]() | contaginer tag |  | `<>` | `marquee` tag is used to scroll any content or text. To control the scolling direction and speed there are variety of attributes for marquee element available. |
-| [`<>`]() |  |  | `<>` |  |
-| [`<>`]() |  |  | `<>` |  |
-| [`<>`]() |  |  | `<>` |  |
-| [`<>`]() |  |  | `<>` |  |
-| [`<>`]() |  |  | `<>` |  |
-| [`<>`]() |  |  | `<>` |  |
-| [`<>`]() |  |  | `<>` |  |
-| [`<>`]() |  |  | `<>` |  |
-| [`<>`]() |  |  | `<>` |  |
-| [`<>`]() |  |  | `<>` |  |
-| [`<>`]() |  |  | `<>` |  |
+| Tag | tag type | Default display value | description |
+| --- |----------| ----- | ----------- |
+| [`<html>`]() | container tag | block level |  to write the html code for markup write between the html container tag |
+| [`<head>`]() | container tag |  |  `<head>` tag is a container tag for metadata. which gives the data about the html page but not displayed by the browser. |
+| [`<title>`]() | container tag |   | The `<title>` tag is used to define the title of the html page. which is displayed on the browser title bar or pages' tab. |
+| [`<body>`]() | container tag |   | In the `<body>` we write html codes. This tag contains all our document.  |
+| [`<h1>`]() | container tag |  | It is the largest heading in html by default. and generally used for titles of main heading. |
+| [`<h2>`]() | container tag |  | the second largest heading |
+| [`<h3>`]() | container tag |  | subheading |
+| [`<h4>`]() | container tag |  | subheading |
+| [`<h5>`]() | container tag |  | subheading |
+| [`<h6>`]() | container tag |  | the smallest heading. |
+| [`<p>`]()  | container tag |  |   |
+| [`<div>`]()  | container tag |  |  The `<div>` Element defines the section in a HTML document. |
+| [`<span>`]()  | container tag |  |  (1) The `<span>` defines the section in an HTML document. <br><br> (2) It is an inline element |
+| [`<b>`]() | container tag |  |  |
+| [`<i>`]() | container tag |  |  |
+| [`<sup>`]() | container tag |  |  |
+| [`<sub>`]() | container tag |  |  |
+| [`<br>`]() | **empty tag** |  |  |
+| [`<hr>`]() |  |  |  |
+| [`<strong>`]() | container tag |  | semantic markup -  |
+| [`<em>`]() | container tag |  |  semantic markup - |
+| [`<blockquote>`]() | container tag |  |  semantic markup - |
+| [`<q>`]() | container tag |  | semantic markup - |
+| [`<abbr>`]() | container tag |  | semantic markup -  |
+| [`<cite>`]() | container tag |  | semantic markup -  |
+| [`<dfn>`]() | container tag |  | semantic markup -  |
+| [`<address>`]() | container tag |  | semantic markup -  |
+| [`<ins>`]() | container tag |  | semantic markup -  |
+| [`<del>`]() | container tag |  | semantic markup -  |
+| [`<s>`]() | container tag |  | semantic markup -  |
+| [`<ol>`]() | container tag |  |  |
+| [`<li>`]() | container tag |  |  |
+| [`<ul>`]() | container tag |  |  |
+| [`<dl>`]() | container tag |  |  |
+| [`<dt>`]() | container tag |  |  |
+| [`<dd>`]() | container tag |  |  |
+| [`<a>`]() | container tag |  |  |
+| [`<img>`]() | **empty tag** |  |  |
+| [`<figure>`]() | container tag |  |  |
+| [`<figcaption>`]() | container tag |  |  |
+| [`<table>`]() | container tag |  |  |
+| [`<tr>`]() | container tag |   |  |
+| [`<th>`]() | container tag |  |  |
+| [`<td>`]() | container tag |  |  |
+| [`<thead>`]() | container tag |  |  |
+| [`<tbody>`]() | container tag |  |  |
+| [`<tfoot>`]() | container tag |  |  |
+| [`<marquee>`]() | contaginer tag |  | `marquee` tag is used to scroll any content or text. To control the scolling direction and speed there are variety of attributes for marquee element available. |
+| [`<>`]() |  |    |
+| [`<>`]() |  |    |
+| [`<>`]() |  |    |
+| [`<>`]() |  |    |
+| [`<>`]() |  |    |
+| [`<>`]() |  |    |
+| [`<>`]() |  |    |
+| [`<>`]() |  |    |
+| [`<>`]() |  |    |
+| [`<>`]() |  |    |
+| [`<>`]() |  |    |
 
 
 ## `<body>`
